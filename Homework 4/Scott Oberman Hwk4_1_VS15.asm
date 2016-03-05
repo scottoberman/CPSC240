@@ -49,3 +49,12 @@ main PROC
 	exit
 main ENDP
 END main
+
+
+
+;		OUTPUT	
+;
+;	Dump of offset 00016000
+;	-------------------------------
+;	00000013  00000011  0000000F  0000000D  00000009  00000007  00000005  00000003  
+;	Press any key to continue...
